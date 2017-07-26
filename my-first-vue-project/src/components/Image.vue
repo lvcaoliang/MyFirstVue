@@ -1,5 +1,6 @@
 <template>
   <div id="map" class="map">
+  <label>image</label>
   </div>
 </template>
 

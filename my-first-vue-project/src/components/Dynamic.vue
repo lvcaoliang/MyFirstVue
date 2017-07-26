@@ -1,6 +1,6 @@
 <template>
   <div id="map" class="map">
-  <label>dymaic</label>
+  <label>dymaic-git</label>
   </div>
 </template>
 
